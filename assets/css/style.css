@@ -46,8 +46,11 @@ a {
     text-decoration: none;
 }
 
+
 p {
     font-size: 16px;
+    padding-bottom: 30px;
+    padding-top: 5px;
 }
 
 .hero {
@@ -76,8 +79,8 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin-right: 10px;
+    padding: 5px;
     clear: both;
     float: right;
     width: 20%;
@@ -87,11 +90,13 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 12px;
     color: #ffffff;
+    
 }
 
 .benefit-brand {
+    padding:10px
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -126,6 +131,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    
 }
 
 .benefit-cost img {
